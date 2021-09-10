@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="C/C++">
+        <added pattern="person::person(.name,.age)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
