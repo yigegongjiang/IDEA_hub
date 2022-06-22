@@ -4,7 +4,7 @@
     <property name="created">2021-09-09T22:44:20</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-09-09T22:46:48</property>
+    <property name="modified">2022-06-22T10:16:16</property>
     <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -248,10 +248,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.INTERNAL_COMMAND" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -336,7 +332,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -1579,7 +1574,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -1962,7 +1956,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="MAKO.SUBSTITUTION" baseAttributes="" />
     <option name="MAKO.TAG">
       <value />
     </option>
